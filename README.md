@@ -1,1 +1,1 @@
-readme of this directory
+My first project
